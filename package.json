@@ -1,0 +1,23 @@
+{
+  "name": "test-cafe-training-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hubert-Niewinski/test-cafe-training-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hubert-Niewinski/test-cafe-training-project/issues"
+  },
+  "homepage": "https://github.com/Hubert-Niewinski/test-cafe-training-project#readme",
+  "devDependencies": {
+    "testcafe": "^1.18.5",
+    "typescript": "^4.6.3"
+  }
+}

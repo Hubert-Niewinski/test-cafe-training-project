@@ -1,0 +1,6 @@
+{
+  "src": "./tests/*",
+  "browsers": "chrome",
+  "height": 1920,
+  "width": 1080
+}
